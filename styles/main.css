@@ -31,6 +31,7 @@ a {
     display: flex;
     flex-wrap: wrap;
     margin: 2.5% auto;
+    border-radius: 10px;
     grid: repeat(3, 500px);
     align-items: flex-start;
 	backdrop-filter: blur(5px);
